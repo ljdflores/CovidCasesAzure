@@ -1,0 +1,2 @@
+# CovidCasesAzure
+AzureCovidCases
